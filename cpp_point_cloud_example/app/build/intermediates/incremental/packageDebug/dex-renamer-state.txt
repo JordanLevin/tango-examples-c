@@ -1,0 +1,4 @@
+#Sat Sep 30 13:41:47 EDT 2017
+base.0=/home/jordan/Desktop/fri/tango-examples-c/cpp_point_cloud_example/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/jordan/Desktop/fri/tango-examples-c/cpp_point_cloud_example/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

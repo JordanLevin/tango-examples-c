@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jordan/Desktop/fri/tango-examples-c/cpp_point_cloud_example/app/build/intermediates/exploded-aar/cpp_point_cloud_example/cpp_example_util/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="172bee05b4334bd5466bc50de0963d2a064bd1f2">
+        <dex dex="/home/jordan/Desktop/fri/tango-examples-c/cpp_point_cloud_example/app/build/intermediates/pre-dexed/debug/cpp_point_cloud_example-cpp_example_util-unspecified_2b5d3738ec1914cccf4edb30bc4ee7c384d63e23.jar" />
+    </item>
+
+</items>
